@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "5639c223005b3ac6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d382a116d85f5a6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Solo diagramas de E, HyT y S/5. Gestión de los Recursos - Memo.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a49ec2df0bea75b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "67e5a381e59dac3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f61e00615e1bfdba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8972dfe538d1a679",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5efad0abb8336a4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c5240f16dc25402",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40c483cd128c9d6b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Solo diagramas de E, HyT y S/5. Gestión de los Recursos - Memo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1d382a116d85f5a6",
+  "lastOpenFiles": [
+    "Solo diagramas de E, HyT y S/5. Gestión de los Recursos - Memo.md",
+    "Solo diagramas de E, HyT y S/3. Gestión del Cronograma - Memo.md",
+    "Solo diagramas de E, HyT y S/7. Gestión de las Comunicaciones - Memo.md",
+    "Solo diagramas de E, HyT y S/6. Gestión de la Calidad - Memo.md",
+    "Solo diagramas de E, HyT y S/4. Gestión del Costo - Memo.md",
+    "Solo diagramas de E, HyT y S/2. Gestión del Alcance - Memo.md",
+    "Todos los Procesos.md",
+    "Procesos/1. Gestión de la Integración - Procesos.md",
+    "Solo diagramas de E, HyT y S/1. Gestión de la Integración - Memo.md",
+    "Procesos/Desarrollar el Plan para la Dirección del Proyecto.md"
+  ]
+}

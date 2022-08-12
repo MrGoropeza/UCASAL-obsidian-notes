@@ -1,0 +1,1 @@
+Documento que autoriza formalmente la existencia de un proyecto y confiere al director del proyecto la autoridad para aplicar los recursos de la organización a las actividades del proyecto.

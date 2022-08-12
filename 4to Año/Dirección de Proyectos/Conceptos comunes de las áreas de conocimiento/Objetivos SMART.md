@@ -1,0 +1,5 @@
+- **E**specíficos
+- **M**edibles
+- **A**lcanzables
+- **R**elevantes
+- **T**emporales

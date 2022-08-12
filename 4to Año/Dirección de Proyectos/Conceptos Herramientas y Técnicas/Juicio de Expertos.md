@@ -1,0 +1,1 @@
+Juicio que se brinda sobre la base de la experiencia de un área de aplicación, área de conocimiento, disciplina, industria, etc, según resulte apropiado para la actividad que se está ejecutando. Esto lo da alguien con experiencia o capacitación especializada en el tema.

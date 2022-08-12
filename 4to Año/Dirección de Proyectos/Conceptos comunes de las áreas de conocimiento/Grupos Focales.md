@@ -1,0 +1,1 @@
+Reúnen a los interesados y expertos en la materia para conocer sobre el riesgoo percibido del proyecto, los criterios de éxito y otros temas.

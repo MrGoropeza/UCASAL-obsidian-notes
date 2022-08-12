@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "6b2d0d8d9019e546",
+    "type": "split",
+    "children": [
+      {
+        "id": "de4a56b1b67779a3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TP4b.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cbad8db2cd14c450",
+    "type": "split",
+    "children": [
+      {
+        "id": "763a566317fb0836",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7502e7ad3e9aa21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7814d6e63e5ef87b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7b2994efb2af850d",
+    "type": "split",
+    "children": [
+      {
+        "id": "49d92040ba54b655",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "892229ad05e033dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TP4b.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "de4a56b1b67779a3",
+  "lastOpenFiles": [
+    "TP4b.md",
+    "TP4.md",
+    "Teoría 24-05-22.md",
+    "Método Simplex.md"
+  ]
+}

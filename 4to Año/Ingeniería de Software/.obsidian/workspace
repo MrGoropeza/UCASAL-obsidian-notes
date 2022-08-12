@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "170ca6cf9911d5ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebe061a43ff48209",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Teoría/Clase 10-08-2022.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12bb6c6af288c9be",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0da34004403de29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68e28afe67d3cb33",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "882d7461897e6a0c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c59265e5f262b84e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3c7acbf7a755e32f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e997f372c48152d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce914ceadb4f9985",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Teoría/Clase 10-08-2022.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "94b9932116222d88",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Teoría/Clase 10-08-2022.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c8ff1fd172a244c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c70bee773edd48e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Teoría/Clase 10-08-2022.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ebe061a43ff48209",
+  "lastOpenFiles": [
+    "Teoría/Clase 08-08-2022.md",
+    "Práctica/Clase 03-08-2022.md"
+  ]
+}

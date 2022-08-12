@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "7b9f6d8a34f717a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc2553144e5bbf27",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Gestión del Alcance/Conceptos.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e11b0a3bb09189e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bce5b161a7862c5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99185ffe1ca8531b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "14cbeb18f44abfe3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "de6dd1ed608f87e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e9dbf996d664d8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26d081d699243445",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Gestión del Alcance/Conceptos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cc2553144e5bbf27",
+  "lastOpenFiles": [
+    "Gestión del Alcance/Conceptos.md",
+    "TodoEnUno.md",
+    "Gestión Cronograma - Mapas Conceptuales.md",
+    "Gestión Calidad - Mapas Conceptuales.md",
+    "Gestión del Alcance/Gestión Alcance - Mapas Conceptuales.md",
+    "Gestión del Alcance/3. Crear el EDT.md",
+    "Gestión del Alcance/2. Recopilar Requisitos.md",
+    "Gestión del Alcance/1. Planificar la Gestión del Alcance.md",
+    "Gestión Comunicaciones - Mapas Conceptuales.md",
+    "Gestión Recursos - Mapas Conceptuales.md"
+  ]
+}

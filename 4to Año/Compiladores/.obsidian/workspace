@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "01a59cf1e45a18a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3e59a0891f10478",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Unidad 2 - Autómatas Finitos.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1433d5934321dab4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9eace58f64105ccb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc93557c78f657e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5e8160e21ecef058",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "331c79774aff3a89",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.5
+  },
+  "right": {
+    "id": "61a0208baef632be",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d52e8a173b34b76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af9b01c4d1cb6e90",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unidad 2 - Autómatas Finitos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef005892299ecdd6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Unidad 2 - Autómatas Finitos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88218f293f96d0be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8da369e8fffd6ef0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unidad 2 - Autómatas Finitos.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d3e59a0891f10478",
+  "lastOpenFiles": [
+    "Unidad 2 - Assets/Pasted image 20220807050513.png",
+    "Unidad 2 - Autómatas Finitos.md",
+    "Unidad 1 - Introducción.md"
+  ]
+}

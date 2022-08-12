@@ -1,0 +1,1 @@
+Sesiones enfocadas que reúnen a los interesados clave a fin de definiir los requisitos del producto.
