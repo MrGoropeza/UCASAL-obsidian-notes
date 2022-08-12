@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "191b136a230fd520",
+    "type": "split",
+    "children": [
+      {
+        "id": "7aecbe57db1e5398",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b05f3e6edbd0f8e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "243803ad34f234a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a2209e77eb9e105",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc1b62979a73e3d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80ef00cbf18e71ff",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0bbd4d733e8ea89e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d27839d16e3af8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38392d3718961fda",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d89440649143e81",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "604ec927c345fafb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cfcee3c9ac66a839",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3a2209e77eb9e105",
+  "lastOpenFiles": [
+    "Clase Teórica 05-08-2022.md",
+    "Clase Práctica 05-08-2022.md"
+  ]
+}
