@@ -1,3 +1,3 @@
 # Mis apuntes de la universidad en Obsidian
 
-Están organizados por año.
+Están organizados por año y materia.
