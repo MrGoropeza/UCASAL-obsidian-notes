@@ -1,0 +1,1 @@
+Estrategia dominda: aquella perspectiva que pierde más que las demás estrategias

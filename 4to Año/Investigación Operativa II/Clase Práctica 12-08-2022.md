@@ -1,4 +1,4 @@
-# Ejercicio Adicional 1
+ # Ejercicio Adicional 1
 Pedrio subasta un billete de 50 euros entre Carlos y Blanca con las siguientes reglas: se juega por turnos. Aquel a quien le toca jugar puede pasar, o pujar con 20 euros más que el anterior (suponiendo que los tiene). Empieza Blanca (pasando o pujando con 20 euros). Si un jugador dcide pasar, ya no puede pujar en una jugada posterior. Gana el último en jugar, que se lleva el billete. Si ninguno ha pujado se llevan 25 euros cada uno. Ambos jugadores deben pagar su última puja. Aparte de las reglas es de conocimiento común que cada jugador tiene solo 60 euros.
 
 ```mermaid
