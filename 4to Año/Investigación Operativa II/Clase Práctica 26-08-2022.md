@@ -31,7 +31,7 @@ Jugador 2: Mínimos de los mayores (maximin): -1 (estrategia 3)
 
 Resultado del juego en el punto silla: El jugador 2 gana 1 unidad.
 - Valor del juego: -1
-- Resultado del juego: gana jugador 2
+- Resultado del juego: gana jugador 2´
 - Punto silla: estrategia(3, 3) mu_{s} = (3, 3)
 
 Si minimax != maximin, entonces estamos en un juego inestable.
