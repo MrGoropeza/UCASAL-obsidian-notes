@@ -18,7 +18,7 @@ Las ingenierías construyen sus instrumentos basándose en diversas ciencias:
 ## [[Software]]
 Componente **lógico e intangible**.
 
-En cambio, el **[[software]]** se base sólo en Matemáticcas, y de ella, un conjunto acotado de conocimientos:
+En cambio, el **[[Software]]** se base sólo en Matemáticcas, y de ella, un conjunto acotado de conocimientos:
 - Álgebra de Boole
 - Álgebra Relacional
 - Entre otras
