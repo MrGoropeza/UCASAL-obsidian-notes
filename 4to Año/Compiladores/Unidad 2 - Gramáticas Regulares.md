@@ -1,0 +1,3 @@
+Una gramática es un conjunto de reglas para formar correctamente las frases de un lenguaje. Existen gramáticas que describen a los lenguajes naturales, por ejemplo, el idioma español, inglés, etc., y también gramáticas que describen lenguajes formales, por ejemplo los lenguajes de programación. 
+
+En esta lección nos centraremos en el estudio de un tipo de gramáticas: las **gramáticas regulares**, las cuales se relacionan con los autómatas finitos y las expresiones regulares. Veremos que con las gramáticas regulares se puede generar el conjunto de cadenas reconocidas por autómatas finitos, o sea, a los lenguajes regulares.
