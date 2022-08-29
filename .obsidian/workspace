@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "ce07a55d51d0cef3",
+    "id": "e8a2874306c7d3e5",
     "type": "split",
     "children": [
       {
-        "id": "009a1bdfc17bffd4",
+        "id": "486b8bb347104314",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4c0ef42c41b16e8b",
+    "id": "c1ab0e90880f3339",
     "type": "split",
     "children": [
       {
-        "id": "a26dc1d44baac8b5",
+        "id": "859445eb9b678ec1",
         "type": "tabs",
         "children": [
           {
-            "id": "c12164944a46b9f5",
+            "id": "35a29837f32434e5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "d9da0b5aa70fe80e",
+            "id": "d2e3efb091bd5b3d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "0f8e3e83f999bd1b",
+            "id": "2d53801b103e0f9f",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -61,27 +61,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 300
   },
   "right": {
-    "id": "76e0190d95246275",
+    "id": "b577dce4d50ca4d3",
     "type": "split",
     "children": [
       {
-        "id": "f79758ab3ff19995",
+        "id": "ac316deea2e8ec27",
         "type": "tabs",
         "children": [
           {
-            "id": "f67348132751b2a3",
+            "id": "c98023ccda55a697",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "4to Año/Ingeniería de Software/Práctica/Clase 26-08-2022.md",
-=======
                 "file": "4to Año/Compiladores/Unidad 2 - Gramáticas Regulares.md",
->>>>>>> f383ed872fbbf8c17fb83bc71f445a9c793f64b8
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,23 +89,19 @@
             }
           },
           {
-            "id": "1e644724a6f9f01c",
+            "id": "8eeed40ac8a38996",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "4to Año/Ingeniería de Software/Práctica/Clase 26-08-2022.md",
-=======
                 "file": "4to Año/Compiladores/Unidad 2 - Gramáticas Regulares.md",
->>>>>>> f383ed872fbbf8c17fb83bc71f445a9c793f64b8
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ba658a2fc1692a50",
+            "id": "62de0c019684354d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,16 +112,12 @@
             }
           },
           {
-            "id": "42f74b174454bc84",
+            "id": "fe44db32ee4840d9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "4to Año/Ingeniería de Software/Práctica/Clase 26-08-2022.md"
-=======
                 "file": "4to Año/Compiladores/Unidad 2 - Gramáticas Regulares.md"
->>>>>>> f383ed872fbbf8c17fb83bc71f445a9c793f64b8
               }
             }
           }
@@ -140,24 +128,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "009a1bdfc17bffd4",
+  "active": "486b8bb347104314",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "4to Año/Investigación Operativa II/Clase Práctica 26-08-2022.md",
-    "4to Año/Investigación Operativa II/Clase Práctica 19-08-2022.md",
-    "4to Año/Investigación Operativa II/Clase Práctica 12-08-2022.md",
-    "4to Año/Ingeniería de Software/Práctica/Clase 26-08-2022.md",
-    "4to Año/Ingeniería de Software/Resumen/Ciclo de Vida.md",
-    "4to Año/Ingeniería de Software/README.md",
-    "4to Año/Investigación Operativa II/Clase Teórica 25-08-2022.md",
-    "4to Año/Compiladores/Clases/Clase 22-08-2022.md",
-    "4to Año/Investigación Operativa II/Clase Teórica 19-08-2022.md",
-    "4to Año/Ingeniería de Software/Práctica/Clase 19-08-2022.md"
-=======
-    "4to Año/Compiladores/Unidad 2 - Assets/Pasted image 20220828140355.png",
+    "4to Año/Compiladores/Clases/Clase 29-09-2022.md",
+    "4to Año/Compiladores/Unidad 2 - Gramáticas Regulares.md",
     "4to Año/Compiladores/Unidad 2 - Lenguajes Regulares.md",
-    "4to Año/Compiladores/Unidad 2 - Assets/Pasted image 20220828163705.png",
-    "4to Año/Compiladores/Unidad 2 - Assets/Pasted image 20220828140953.png"
->>>>>>> f383ed872fbbf8c17fb83bc71f445a9c793f64b8
+    "4to Año/Compiladores/Clases/Clase 22-08-2022.md"
   ]
 }
